@@ -1,0 +1,21 @@
+body {
+    background-color: #bee6e5;
+}
+
+#consoleLog {
+    border: 1px solid;
+    width: 11%;
+    padding-left: 15px;
+}
+
+#Alert {
+    border: 1px solid;
+    width: 11%;
+    padding-left: 15px;
+}
+
+#Prompt {
+    border: 1px solid;
+    width: 11%;
+    padding-left: 15px;
+}

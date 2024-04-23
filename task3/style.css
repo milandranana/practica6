@@ -1,0 +1,30 @@
+/* #trafficLight {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: black;
+  } */
+
+  body {
+    background-color: #bee6e5;
+}
+
+  div {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: black;
+    padding: 3px;
+  }
+
+  #trafficLightgreen {
+    margin: 2px;
+  }
+
+  #trafficLightyellow {
+    margin: 2px;
+ }
+
+   #trafficLightred {
+    margin: 2px;
+ }

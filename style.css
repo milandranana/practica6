@@ -1,0 +1,29 @@
+body {
+    background-color: #bee6e5;
+}
+
+.button1 {
+    margin: 3px;
+}
+
+.button2 {
+    margin: 3px;
+}
+
+.button3 {
+    margin: 3px;
+}
+
+.button4 {
+    margin: 3px;
+}
+
+.button5 {
+    margin: 3px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    background-color: aliceblue;
+}
